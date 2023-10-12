@@ -21,6 +21,7 @@
 ![123_3](https://github.com/Sellakumar1987/Ex.-No---6.-SIMULATION-OF-FUSED-DEPOSITION-MODELING-PROCESS/assets/113594316/e05c97f8-b035-4e4d-86e8-f91a73aa95a8)
 
 ## Output:
+![240915209-417126fb-7d1b-4cc1-bfe2-1f9b6edf4447](https://github.com/Yuvaraj878/Ex.-No---6.-SIMULATION-OF-FUSED-DEPOSITION-MODELING-PROCESS/assets/118622554/eed8e265-a8c0-4d2e-b1c6-d4d54a3219cd)
 
 ### Name: YUVARAJ.S
 ### Register Number: 212222240119
